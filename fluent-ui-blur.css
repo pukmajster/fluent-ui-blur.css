@@ -1,8 +1,12 @@
 /* 
-    https:// 
-
+ * fluent-ui-blur.css
+ *
+ * Made by https://github.com/pukmajster
+ * Repo: https://github.com/pukmajster/fluent-ui-blur.css
+ *
+ * Noise generated at: http://noisepng.com/
 */
-/* http://noisepng.com/ */
+
 .fluent-ui-blur {
     backdrop-filter: blur(30px) saturate(120%) ;
     background-color: rgba(20, 20, 20, 0.507);
